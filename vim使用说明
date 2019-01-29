@@ -21,7 +21,7 @@ ctrl+] 跳专的深的情况下ctrl+shift+^ 不能原路跳回到最开始的文
 
 
 
-在光标处gf  goto file  可以打开头文件
+在光标处gf  goto file  可以打开头文件  ctrl+shift+^  跳回原文件
 
 
 
